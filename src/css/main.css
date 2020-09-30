@@ -1,0 +1,64 @@
+
+.leftComp{
+    min-width: 30vw;
+    max-width: 30vw;
+}
+
+.rightComp{
+   width: auto;
+}
+
+.container{
+    display:inline-flex;
+}
+
+.leftComp img{
+    cursor: pointer;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bookName{
+    font-family: inherit;
+    font-size: medium;
+    text-align: center;
+}
+
+.bookItem{
+    margin: 5%;
+}
+
+.searcBarContainer{
+    margin: auto;
+    padding: 1%;
+}
+.searchBar{
+    width: 40vw;
+    height: 6vh;
+    margin-left: 20vw;
+}
+.btn{
+    margin-left: 5px;
+    width: 10vw;
+    height: 7vh;
+    cursor: pointer;
+}
+
+.bookTitle{
+    text-align: center;
+}
+.info{
+    font-family: cursive;
+    font-size: large;
+    text-align: center;
+}
+.bookHolder img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+}
+.description{
+    padding: 1%;
+}
